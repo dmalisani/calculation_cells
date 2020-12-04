@@ -1,2 +1,4 @@
-# calculation_cells
-Library for calculate through formulas and variables
+# README #
+
+Library for calculate through formula and variables
+
