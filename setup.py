@@ -7,6 +7,6 @@ setup(
     version='0.1',
     url='https://bitbucket.org/cegteam/calculation_cells/',
     author='Daniel Malisani',
-    author_email='daniel.malisani@comprandoengrupo.net',
+    author_email='dmalisani@gmail.com',
     keywords=['calculation','formula','variable']
     )
